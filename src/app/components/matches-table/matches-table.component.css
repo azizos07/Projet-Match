@@ -1,0 +1,11 @@
+.win {
+    text-decoration: underline green;
+}
+
+.loss {
+    text-decoration: underline orange;
+}
+
+.draw {
+    text-decoration: underline double blue;
+}
